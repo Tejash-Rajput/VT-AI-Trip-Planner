@@ -137,7 +137,7 @@ function CreateTrip() {
             What is destination of choice?
           </h2>
           <BingPlacesAutocomplete
-            apiKey="Aqqt1MhFxTmKsRf-vM5JYPPbW4CPhRfZSbUD8T4ahyJfsM08w6GRbWidvGRI7xSQ"
+            apiKey="your api key"
             onPlaceSelected={handlePlaceSelected}
             // onChange={handleInputChange}
           />
